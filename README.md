@@ -1,6 +1,8 @@
 # Deeplearning Neural Style
 A simple implementation of neuralstyle in tensorflow. #deeplearning #tensorflow #neuralstyle 
 
+It is a part of [Deep Learning course](https://www.coursera.org/learn/convolutional-neural-networks) on Coursera
+
 Below is an example:
 
 ![The origial Image](content.jpg)
