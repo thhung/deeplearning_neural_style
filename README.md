@@ -3,9 +3,11 @@ A simple implementation of neuralstyle in tensorflow. #deeplearning #tensorflow 
 
 Below is an example:
 
-![The origial Image](content.jpg)*The origial Image*
+![The origial Image](content.jpg)
+*The origial Image*
 
-![The style I would like to get](style.jpg) *The style I would like to get*
+![The style I would like to get](style.jpg)
+*The style I would like to get*
 
 ![Result after 160 iterations](160.png)
 
