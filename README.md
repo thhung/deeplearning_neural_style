@@ -1,4 +1,4 @@
-# deeplearning_neural_style
+# Deeplearning Neural Style
 A simple implementation of neuralstyle in tensorflow. #deeplearning #tensorflow #neuralstyle 
 
 Below is an example:
@@ -13,7 +13,11 @@ Below is an example:
 
 ![Result after 160 iterations](160.png)
 
+*Result after 160 iterations*
+
 ![The generated image](generated_image.jpg)
+
+*The generated image*
 
 Of course, we can always increase the number of iteration to improve the result.
 
