@@ -1,3 +1,5 @@
+## The code below is belong to Deep Learning Coursera course.
+
 ### Part of this code is due to the MatConvNet team and is used to load the parameters of the pretrained VGG19 model in the notebook ###
 
 import os
